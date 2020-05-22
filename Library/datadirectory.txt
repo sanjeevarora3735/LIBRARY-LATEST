@@ -1,0 +1,1 @@
+Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Library\LIBRARY.mdf;Initial Catalog=Library20.5.19;Integrated Security=True;Connect Timeout=30
